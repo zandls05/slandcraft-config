@@ -1,1 +1,98 @@
-{}
+{
+  "news": [
+    {
+      "id": "misiones-3d",
+      "title": "Misiones y cosméticos 3D",
+      "summary": "Completa misiones y desbloquea sombreros, alas, trajes, mascotas y auras animadas.",
+      "body": [
+        "Llegan las misiones: juega, lee las novedades y explora versiones para ganar recompensas.",
+        "En Cosméticos encontrarás sombreros, alas, trajes, mascotas y auras con modelos 3D, texturas y sombras. Puedes girar tu personaje con el ratón."
+      ],
+      "category": "actualizacion",
+      "date": "2026-11-08",
+      "featured": true,
+      "image": "misiones.png"
+    },
+    {
+      "id": "launcher-2",
+      "title": "Nuevo launcher de SlandCraft",
+      "summary": "Menú renovado, versiones, cosméticos y capas exclusivas.",
+      "body": [
+        "Estrenamos launcher propio: inicia sesión con tu cuenta de Microsoft, elige versión y entra directo al servidor.",
+        "Estrena temas de color, marcos de avatar e insignias en la pestaña Cosméticos, y mira tu colección de capas.",
+        "Si algo falla, entra en Ajustes > Ayuda y copia el informe de diagnóstico para mandárnoslo por Discord."
+      ],
+      "category": "actualizacion",
+      "date": "2026-11-08",
+      "featured": false,
+      "link": "",
+      "linkLabel": "Ver en Discord",
+      "image": "launcher-2.png"
+    },
+    {
+      "id": "ruleta-espadas",
+      "title": "Ruleta: espadas poderosas y legendarias",
+      "summary": "Prueba tu suerte con gemas y consigue armas con efectos de muerte únicos.",
+      "body": [
+        "En la ruleta puedes ganar las espadas poderosas y legendarias de SlandCraft probando tu suerte con gemas.",
+        "Cada espada tiene su propio efecto de muerte: fuego, hielo, rayos y más."
+      ],
+      "category": "evento",
+      "date": "2026-11-06",
+      "image": "ruleta-espadas.png",
+      "featured": false
+    },
+    {
+      "id": "fragmentos",
+      "title": "Fragmentos: canjea tu espada",
+      "summary": "Reúne 1000 fragmentos del mismo tipo y canjéalos por un arma.",
+      "body": [
+        "Los fragmentos se consiguen con Khotz y completando misiones.",
+        "Reúne 1000 fragmentos del mismo tipo y canjéalos por una espada poderosa o legendaria."
+      ],
+      "category": "actualizacion",
+      "date": "2026-11-04",
+      "image": "fragmentos.png",
+      "featured": false
+    },
+    {
+      "id": "peluches",
+      "title": "Peluches coleccionables",
+      "summary": "Colecciona peluches y presúmelos en tu casa.",
+      "body": [
+        "Consigue peluches adorables en /warp tradeos y decora tu casa con ellos.",
+        "¡Hay muchos por descubrir!"
+      ],
+      "category": "tienda",
+      "date": "2026-11-02",
+      "image": "peluches.png",
+      "featured": false
+    },
+    {
+      "id": "votos",
+      "title": "Vota cada día y gana recompensas",
+      "summary": "Usa /votes en el servidor y recibe premios gratis.",
+      "body": [
+        "Vota por SlandCraft cada día con /votes y recibe recompensas gratis.",
+        "Cuantos más votos, más premios."
+      ],
+      "category": "evento",
+      "date": "2026-10-30",
+      "image": "votos.png",
+      "featured": false
+    },
+    {
+      "id": "proteccion",
+      "title": "Protege tu terreno",
+      "summary": "Cuida tu base y tus cofres de griefers y ladrones.",
+      "body": [
+        "Usa /protecciones para proteger tu terreno y tus cofres.",
+        "Además, vende y compra con otros jugadores en la tienda de subastas con /ah."
+      ],
+      "category": "aviso",
+      "date": "2026-10-28",
+      "image": "proteccion.png",
+      "featured": false
+    }
+  ]
+}
